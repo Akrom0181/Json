@@ -1,0 +1,1 @@
+begin 10 hello 9 text 8 buy 7 tell 6 speak 5 think 4 four 3 three 2 zero 1 last

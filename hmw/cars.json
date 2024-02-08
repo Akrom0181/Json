@@ -1,0 +1,26 @@
+[
+    {
+        "Brand":"BMW",
+        "year": 2007,
+        "model": "M5",
+        "weight": 3000
+    },
+    {
+        "Brand":"Ford",
+        "year": 2009,
+        "model": "Mustang",
+        "weight": 2570
+    },
+    {
+        "Brand":"Merc",
+        "year": 2021,
+        "model": "Amg Gt 63s",
+        "weight": 2800
+    },
+    {
+        "Brand":"Porsche",
+        "year": 2020,
+        "model": "Taycan",
+        "weight": 2500
+    }
+]

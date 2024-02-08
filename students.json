@@ -1,0 +1,32 @@
+[
+    {
+      "Name": "Mahmud",
+      "age": 30,
+      "course": 1,
+      "contract": 15000
+    },
+    {
+      "Name": "Zufar",
+      "age": 25,
+      "course": 2,
+      "contract": 25000
+    },
+    {
+      "Name": "Mahmud",
+      "age": 40,
+      "course": 4,
+      "contract": 40000
+    },
+    {
+      "Name": "Asilbek",
+      "age": 10,
+      "course": 1,
+      "contract": 10000
+    },
+    {
+      "Name": "Sunatillo",
+      "age": 45,
+      "course": 2,
+      "contract": 30000
+    }
+]
